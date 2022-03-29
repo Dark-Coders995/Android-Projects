@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#181818"
     tools:context=".MainActivity">
 
     <TextView
@@ -13,8 +14,8 @@
         android:layout_above="@+id/result"
         android:gravity="right"
         android:paddingRight="10dp"
-        android:text="250"
-        android:textColor="@color/black"
+        android:text=""
+        android:textColor="@color/white"
         android:textSize="80dp" />
 
     <TextView
@@ -24,8 +25,8 @@
         android:layout_above="@+id/Linearlayout1"
         android:gravity="right"
         android:paddingRight="10dp"
-        android:text="250"
-        android:textColor="@color/black"
+        android:text=""
+        android:textColor="@color/white"
         android:textSize="100dp" />
 
     <LinearLayout
@@ -43,22 +44,26 @@
             android:gravity="center"
             android:orientation="horizontal">
             <ImageView
+                android:id="@+id/btn_ac"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_ac"/>
 
             <ImageView
+                android:id="@+id/divide"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_divide"/>
             <ImageView
+                android:id="@+id/btn_start_bracket"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_start_bracket"/>
             <ImageView
+                android:id="@+id/btn_end_brackets"
             android:layout_width="70dp"
             android:layout_height="70dp"
                 android:layout_marginStart="25dp"
@@ -71,22 +76,26 @@
             android:gravity="center"
             android:orientation="horizontal">
             <ImageView
+                android:id="@+id/btn_7"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_7"/>
 
             <ImageView
+                android:id="@+id/btn_8"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_8"/>
             <ImageView
+                android:id="@+id/btn_9"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_9"/>
             <ImageView
+                android:id="@+id/btn_multiplication"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
@@ -99,22 +108,26 @@
             android:gravity="center"
             android:orientation="horizontal">
             <ImageView
+                android:id="@+id/btn_4"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_4"/>
 
             <ImageView
+                android:id="@+id/btn_5"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_5"/>
             <ImageView
+                android:id="@+id/btn_6"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_6"/>
             <ImageView
+                android:id="@+id/btn_minus"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
@@ -127,22 +140,26 @@
             android:gravity="center"
             android:orientation="horizontal">
             <ImageView
+                android:id="@+id/btn_1"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_1"/>
 
             <ImageView
+                android:id="@+id/btn_2"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_2"/>
             <ImageView
+                android:id="@+id/btn_3"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_3"/>
             <ImageView
+                android:id="@+id/btn_plus"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
@@ -162,16 +179,19 @@
                 android:background="@drawable/btn_0"/>
 
             <ImageView
+                android:id="@+id/btn_0"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_0"/>
             <ImageView
+                android:id="@+id/btn_dot"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"
                 android:background="@drawable/btn_dot"/>
             <ImageView
+                android:id="@+id/btn_equal"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginStart="25dp"

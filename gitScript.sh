@@ -7,7 +7,12 @@ current_date=$(date -jf "%Y-%m-%d" "$start_date" +"%Y-%m-%d")
 
 while [ "$current_date" != "$end_date" ]; do
     # Create or modify your files as needed
-    echo 'fun main() { println("Hello, World!") } ' > file2.kt
+    echo """
+    fun main() {
+        println(\"Hello World in Kotlin!\")
+        println(\"Current Date: $current_date\")
+    }
+    """ > file1.kt
 
     # Add files to staging
     git add .

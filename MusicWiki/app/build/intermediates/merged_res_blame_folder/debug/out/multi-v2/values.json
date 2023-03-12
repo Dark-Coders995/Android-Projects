@@ -78,23 +78,6 @@
                     }
                 },
                 {
-                    "source": "/Users/darkcoders/Downloads/MusicWiki1/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "47",
-                        "endOffsets": "59"
-                    },
-                    "to": {
-                        "startLines": "1196",
-                        "startColumns": "4",
-                        "startOffsets": "69131",
-                        "endColumns": "47",
-                        "endOffsets": "69174"
-                    }
-                },
-                {
                     "source": "/Users/darkcoders/.gradle/caches/transforms-3/fcf76cd10733b1fba72ccccd572e347c/transformed/transition-1.2.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -112,22 +95,20 @@
                     }
                 },
                 {
-                    "source": "/Users/darkcoders/Downloads/MusicWiki1/app/src/main/res/values/themes.xml",
+                    "source": "/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "820"
+                        "startLines": "7,14,11,9,2,3,4,12,5,6,13,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "286,559,413,368,55,102,149,461,196,241,508,328",
+                        "endColumns": "41,46,47,43,46,46,46,46,44,44,50,39",
+                        "endOffsets": "323,601,456,407,97,144,191,503,236,281,554,363"
                     },
                     "to": {
-                        "startLines": "3902",
-                        "startColumns": "4",
-                        "startOffsets": "252866",
-                        "endLines": "3914",
-                        "endColumns": "12",
-                        "endOffsets": "253463"
+                        "startLines": "495,502,509,510,586,587,588,591,600,601,602,605",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "23777,24345,24756,24804,29909,29956,30003,30165,30794,30839,30884,31056",
+                        "endColumns": "41,46,47,43,46,46,46,46,44,44,50,39",
+                        "endOffsets": "23814,24387,24799,24843,29951,29998,30045,30207,30834,30879,30930,31091"
                     }
                 },
                 {
@@ -224,6 +205,25 @@
                     }
                 },
                 {
+                    "source": "/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "820"
+                    },
+                    "to": {
+                        "startLines": "3902",
+                        "startColumns": "4",
+                        "startOffsets": "252866",
+                        "endLines": "3914",
+                        "endColumns": "12",
+                        "endOffsets": "253463"
+                    }
+                },
+                {
                     "source": "/Users/darkcoders/.gradle/caches/transforms-3/7176f77d51a28232bcc580f187ce377a/transformed/jetified-savedstate-1.2.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -241,20 +241,20 @@
                     }
                 },
                 {
-                    "source": "/Users/darkcoders/Downloads/MusicWiki1/app/src/main/res/values/colors.xml",
+                    "source": "/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "7,14,11,9,2,3,4,12,5,6,13,8",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "286,559,413,368,55,102,149,461,196,241,508,328",
-                        "endColumns": "41,46,47,43,46,46,46,46,44,44,50,39",
-                        "endOffsets": "323,601,456,407,97,144,191,503,236,281,554,363"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "47",
+                        "endOffsets": "59"
                     },
                     "to": {
-                        "startLines": "495,502,509,510,586,587,588,591,600,601,602,605",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "23777,24345,24756,24804,29909,29956,30003,30165,30794,30839,30884,31056",
-                        "endColumns": "41,46,47,43,46,46,46,46,44,44,50,39",
-                        "endOffsets": "23814,24387,24799,24843,29951,29998,30045,30207,30834,30879,30930,31091"
+                        "startLines": "1196",
+                        "startColumns": "4",
+                        "startOffsets": "69131",
+                        "endColumns": "47",
+                        "endOffsets": "69174"
                     }
                 },
                 {

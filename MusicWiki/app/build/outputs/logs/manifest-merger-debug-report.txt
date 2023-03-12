@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/darkcoders/.gradle/caches/transforms-3/e4f9a15edc0affade438365f17f3871e/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/darkcoders/.gradle/caches/transforms-3/65492136500dbdaf33058f7f7dd3ab47/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/darkcoders/.gradle/caches/transforms-3/0a6ea916afe797fcd4b920a7765e23b3/transformed/appcompat-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/darkcoders/.gradle/caches/transforms-3/94fa52013280e707e0695618ccb7aa0d/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/3286b0c7125b2987b9bb56b559580d1d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/darkcoders/.gradle/caches/transforms-3/f45027fee6cb15ba3b538b249c06ba49/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/darkcoders/.gradle/caches/transforms-3/533632afd39cd8cc1aaa8cab497c591e/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/352ce0a11e4e2c23bae1c1dd09153e69/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/04abed3bbab6df8adbc596188b803ff3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/c354dc0b82c5b6fe616c44065e40f2ea/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/bc11c67a4320dd30edf5ccaa9eb79a59/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/a0e1ec44c68368cf08f5fe37600311dd/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/88c112f38b1d41bab3bdf3066fd4e52a/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/darkcoders/.gradle/caches/transforms-3/af30b850a381a1ba398f634b7718da17/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/126e5f4c5cc02e58475559670eb3f28c/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/8d5f1cd45feee0e6b411b56c6f4570ad/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/f4ceecefbbd97af3b6b268e0e9c9a8aa/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/darkcoders/.gradle/caches/transforms-3/7176f77d51a28232bcc580f187ce377a/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/darkcoders/.gradle/caches/transforms-3/89d9cedfe7a8e450d2d9385e8ba8706e/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/55b0945384e640450120742a546fcb71/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/db207137440913695934066a8348752d/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/0b052287bdca580dd6a0eb464dd2d36a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/darkcoders/.gradle/caches/transforms-3/fcf76cd10733b1fba72ccccd572e347c/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/2ad7b179d370beb8d5448d1d5f0d070e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/6d1d8b0b3337df83e1460b687070162b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/cc2856728a64402d8456a4cbb7ab947a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/05093b81e9983c38546641bc197d99f3/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/f088300ab14ad26e8c46116a7172dcd0/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/darkcoders/.gradle/caches/transforms-3/ed47e4aa3b89761532e877bd9859dbc1/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/c296fa47ff57a4656856082c72075438/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/a8f2229785d803d486b840d15c4ddce2/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/af9efe54537c30f48ce77e9a521ba5bf/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/darkcoders/.gradle/caches/transforms-3/6408bb9a6154e21a26be8bb34d88197b/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/dd249a8fe2085cf8deb9042c776be00d/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/darkcoders/.gradle/caches/transforms-3/ace594d2eac30b3726ddd1c71d372263/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/e7cde14ee058794fc1eb81329a29135f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/d4669b3d9486a917e6e2843ec67169e4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/f5fbec4a7c68f8150589d4d5cc5169a6/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/5ded51a57929147135a78419b7cce0a3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/darkcoders/.gradle/caches/transforms-3/206a0278be83d10020e00cdc2428aa1b/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9e627766ed0522daf43734b331a083d8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/3991c377a8386bb9606e9594f37e081a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/aef821735fb92fb30a702a2079c5be4d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/b5dc6c954f15c609da625263671d0be0/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/504a9b6862b611b5677ab7e947c31c2a/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/darkcoders/.gradle/caches/transforms-3/e4f9a15edc0affade438365f17f3871e/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/darkcoders/.gradle/caches/transforms-3/e4f9a15edc0affade438365f17f3871e/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/darkcoders/.gradle/caches/transforms-3/65492136500dbdaf33058f7f7dd3ab47/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/darkcoders/.gradle/caches/transforms-3/65492136500dbdaf33058f7f7dd3ab47/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/darkcoders/.gradle/caches/transforms-3/94fa52013280e707e0695618ccb7aa0d/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/darkcoders/.gradle/caches/transforms-3/94fa52013280e707e0695618ccb7aa0d/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/darkcoders/.gradle/caches/transforms-3/ed47e4aa3b89761532e877bd9859dbc1/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/darkcoders/.gradle/caches/transforms-3/ed47e4aa3b89761532e877bd9859dbc1/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/darkcoders/.gradle/caches/transforms-3/6408bb9a6154e21a26be8bb34d88197b/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/darkcoders/.gradle/caches/transforms-3/6408bb9a6154e21a26be8bb34d88197b/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/darkcoders/.gradle/caches/transforms-3/ace594d2eac30b3726ddd1c71d372263/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/darkcoders/.gradle/caches/transforms-3/ace594d2eac30b3726ddd1c71d372263/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/e7cde14ee058794fc1eb81329a29135f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/e7cde14ee058794fc1eb81329a29135f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/darkcoders/.gradle/caches/transforms-3/ed47e4aa3b89761532e877bd9859dbc1/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:12:9-48
+activity#com.example.assignment.SplashActivity
+ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:exported
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:14:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.assignment.GenreDetailActivity
+ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:22:9-57
+	android:name
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:22:19-54
+activity#com.example.assignment.MainActivity
+ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:23:9-27:20
+	android:exported
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml:24:13-41
+uses-sdk
+INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] /Users/darkcoders/.gradle/caches/transforms-3/e4f9a15edc0affade438365f17f3871e/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/darkcoders/.gradle/caches/transforms-3/e4f9a15edc0affade438365f17f3871e/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/darkcoders/.gradle/caches/transforms-3/65492136500dbdaf33058f7f7dd3ab47/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/darkcoders/.gradle/caches/transforms-3/65492136500dbdaf33058f7f7dd3ab47/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/darkcoders/.gradle/caches/transforms-3/0a6ea916afe797fcd4b920a7765e23b3/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/darkcoders/.gradle/caches/transforms-3/0a6ea916afe797fcd4b920a7765e23b3/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/darkcoders/.gradle/caches/transforms-3/94fa52013280e707e0695618ccb7aa0d/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/darkcoders/.gradle/caches/transforms-3/94fa52013280e707e0695618ccb7aa0d/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/3286b0c7125b2987b9bb56b559580d1d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/3286b0c7125b2987b9bb56b559580d1d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/darkcoders/.gradle/caches/transforms-3/f45027fee6cb15ba3b538b249c06ba49/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/darkcoders/.gradle/caches/transforms-3/f45027fee6cb15ba3b538b249c06ba49/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/darkcoders/.gradle/caches/transforms-3/533632afd39cd8cc1aaa8cab497c591e/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/darkcoders/.gradle/caches/transforms-3/533632afd39cd8cc1aaa8cab497c591e/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/352ce0a11e4e2c23bae1c1dd09153e69/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/352ce0a11e4e2c23bae1c1dd09153e69/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/04abed3bbab6df8adbc596188b803ff3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/04abed3bbab6df8adbc596188b803ff3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/c354dc0b82c5b6fe616c44065e40f2ea/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/c354dc0b82c5b6fe616c44065e40f2ea/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/bc11c67a4320dd30edf5ccaa9eb79a59/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/bc11c67a4320dd30edf5ccaa9eb79a59/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/a0e1ec44c68368cf08f5fe37600311dd/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/a0e1ec44c68368cf08f5fe37600311dd/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/88c112f38b1d41bab3bdf3066fd4e52a/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/88c112f38b1d41bab3bdf3066fd4e52a/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/darkcoders/.gradle/caches/transforms-3/af30b850a381a1ba398f634b7718da17/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/darkcoders/.gradle/caches/transforms-3/af30b850a381a1ba398f634b7718da17/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/126e5f4c5cc02e58475559670eb3f28c/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/126e5f4c5cc02e58475559670eb3f28c/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/8d5f1cd45feee0e6b411b56c6f4570ad/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/8d5f1cd45feee0e6b411b56c6f4570ad/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/f4ceecefbbd97af3b6b268e0e9c9a8aa/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/f4ceecefbbd97af3b6b268e0e9c9a8aa/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/darkcoders/.gradle/caches/transforms-3/7176f77d51a28232bcc580f187ce377a/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/darkcoders/.gradle/caches/transforms-3/7176f77d51a28232bcc580f187ce377a/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/darkcoders/.gradle/caches/transforms-3/89d9cedfe7a8e450d2d9385e8ba8706e/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/darkcoders/.gradle/caches/transforms-3/89d9cedfe7a8e450d2d9385e8ba8706e/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/55b0945384e640450120742a546fcb71/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/55b0945384e640450120742a546fcb71/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/db207137440913695934066a8348752d/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/db207137440913695934066a8348752d/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/0b052287bdca580dd6a0eb464dd2d36a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/0b052287bdca580dd6a0eb464dd2d36a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/darkcoders/.gradle/caches/transforms-3/fcf76cd10733b1fba72ccccd572e347c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/darkcoders/.gradle/caches/transforms-3/fcf76cd10733b1fba72ccccd572e347c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/2ad7b179d370beb8d5448d1d5f0d070e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/2ad7b179d370beb8d5448d1d5f0d070e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/6d1d8b0b3337df83e1460b687070162b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/6d1d8b0b3337df83e1460b687070162b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/cc2856728a64402d8456a4cbb7ab947a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/cc2856728a64402d8456a4cbb7ab947a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/05093b81e9983c38546641bc197d99f3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/05093b81e9983c38546641bc197d99f3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/f088300ab14ad26e8c46116a7172dcd0/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/f088300ab14ad26e8c46116a7172dcd0/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/darkcoders/.gradle/caches/transforms-3/ed47e4aa3b89761532e877bd9859dbc1/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/darkcoders/.gradle/caches/transforms-3/ed47e4aa3b89761532e877bd9859dbc1/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/c296fa47ff57a4656856082c72075438/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/c296fa47ff57a4656856082c72075438/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/a8f2229785d803d486b840d15c4ddce2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/a8f2229785d803d486b840d15c4ddce2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/af9efe54537c30f48ce77e9a521ba5bf/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/af9efe54537c30f48ce77e9a521ba5bf/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/darkcoders/.gradle/caches/transforms-3/6408bb9a6154e21a26be8bb34d88197b/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/darkcoders/.gradle/caches/transforms-3/6408bb9a6154e21a26be8bb34d88197b/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/dd249a8fe2085cf8deb9042c776be00d/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/dd249a8fe2085cf8deb9042c776be00d/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/darkcoders/.gradle/caches/transforms-3/ace594d2eac30b3726ddd1c71d372263/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/darkcoders/.gradle/caches/transforms-3/ace594d2eac30b3726ddd1c71d372263/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/e7cde14ee058794fc1eb81329a29135f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/e7cde14ee058794fc1eb81329a29135f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/d4669b3d9486a917e6e2843ec67169e4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/d4669b3d9486a917e6e2843ec67169e4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/f5fbec4a7c68f8150589d4d5cc5169a6/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/f5fbec4a7c68f8150589d4d5cc5169a6/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/5ded51a57929147135a78419b7cce0a3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/darkcoders/.gradle/caches/transforms-3/5ded51a57929147135a78419b7cce0a3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/darkcoders/.gradle/caches/transforms-3/206a0278be83d10020e00cdc2428aa1b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/darkcoders/.gradle/caches/transforms-3/206a0278be83d10020e00cdc2428aa1b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9e627766ed0522daf43734b331a083d8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9e627766ed0522daf43734b331a083d8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/3991c377a8386bb9606e9594f37e081a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/3991c377a8386bb9606e9594f37e081a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/aef821735fb92fb30a702a2079c5be4d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/aef821735fb92fb30a702a2079c5be4d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/b5dc6c954f15c609da625263671d0be0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/b5dc6c954f15c609da625263671d0be0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/504a9b6862b611b5677ab7e947c31c2a/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/darkcoders/.gradle/caches/transforms-3/504a9b6862b611b5677ab7e947c31c2a/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/darkcoders/Downloads/MusicWiki1/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/e7cde14ee058794fc1eb81329a29135f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/e7cde14ee058794fc1eb81329a29135f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

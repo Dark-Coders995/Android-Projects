@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/layout_track_layout.xml.flat",
+        "source": "com.example.assignment.app-main-35:/layout/track_layout.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-xhdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-xhdpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-xxhdpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-xxhdpi/ic_baseline_expand_more_24.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-mdpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-mdpi/ic_baseline_expand_more_24.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/layout_artist_layout.xml.flat",
+        "source": "com.example.assignment.app-main-35:/layout/artist_layout.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-xxxhdpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-xxxhdpi/ic_baseline_expand_more_24.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-hdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-hdpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-anydpi-v21_ic_baseline_expand_less_24.xml.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-anydpi-v21/ic_baseline_expand_less_24.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-ldpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-ldpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable_music_wiki_logo.png.flat",
+        "source": "com.example.assignment.app-main-35:/drawable/music_wiki_logo.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable_music.png.flat",
+        "source": "com.example.assignment.app-main-35:/drawable/music.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/layout_activity_splash.xml.flat",
+        "source": "com.example.assignment.app-main-35:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable_notepad.png.flat",
+        "source": "com.example.assignment.app-main-35:/drawable/notepad.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable_guitar.png.flat",
+        "source": "com.example.assignment.app-main-35:/drawable/guitar.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-ldpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-ldpi/ic_baseline_expand_more_24.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/layout_album_layout.xml.flat",
+        "source": "com.example.assignment.app-main-35:/layout/album_layout.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.assignment.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-xxhdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-xxhdpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable_splash_logo_headphone.png.flat",
+        "source": "com.example.assignment.app-main-35:/drawable/splash_logo_headphone.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.assignment.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-anydpi-v21_ic_baseline_expand_more_24.xml.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-anydpi-v21/ic_baseline_expand_more_24.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/font_conquest_font.ttf.flat",
+        "source": "com.example.assignment.app-main-35:/font/conquest_font.ttf"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/layout_activity_genre_detail.xml.flat",
+        "source": "com.example.assignment.app-main-35:/layout/activity_genre_detail.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-xxxhdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-xxxhdpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-xhdpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-xhdpi/ic_baseline_expand_more_24.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-mdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-mdpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.assignment.app-merged_res-33:/drawable-hdpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.example.assignment.app-pngs-28:/drawable-hdpi/ic_baseline_expand_more_24.png"
+    }
+]

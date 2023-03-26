@@ -1,7 +1,7 @@
 #!/bin/bash
 
-start_date="2023-03-01"
-end_date="2023-03-14"
+start_date="2023-03-26"
+end_date="2023-04-14"
 
 current_date=$(date -jf "%Y-%m-%d" "$start_date" +"%Y-%m-%d")
 

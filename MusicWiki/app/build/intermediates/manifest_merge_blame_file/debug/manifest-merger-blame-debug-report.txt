@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.assignment"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:6:5-28:19
+14        android:allowBackup="true"
+14-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:7:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] /Users/darkcoders/.gradle/caches/transforms-3/ed47e4aa3b89761532e877bd9859dbc1/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:11:9-35
+21        android:theme="@style/Theme.Assignment" >
+21-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:12:9-48
+22        <activity
+22-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:13:9-21:20
+23            android:name="com.example.assignment.SplashActivity"
+23-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:14:13-43
+24            android:exported="true" >
+24-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:15:13-36
+25            <intent-filter>
+25-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:17:17-69
+26-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:19:17-77
+28-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="com.example.assignment.GenreDetailActivity" />
+31-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:22:9-57
+31-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:22:19-54
+32        <activity
+32-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:23:9-27:20
+33            android:name="com.example.assignment.MainActivity"
+33-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:24:13-41
+34            android:exported="true" >
+34-->/Users/darkcoders/Documents/GitHub/Android/MusicWiki/app/src/main/AndroidManifest.xml:25:13-36
+35        </activity>
+36
+37        <provider
+37-->[androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+38            android:name="androidx.startup.InitializationProvider"
+38-->[androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+39            android:authorities="com.example.assignment.androidx-startup"
+39-->[androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+40            android:exported="false" >
+40-->[androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+41            <meta-data
+41-->[androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+42                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+42-->[androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+43                android:value="androidx.startup" />
+43-->[androidx.emoji2:emoji2:1.0.0] /Users/darkcoders/.gradle/caches/transforms-3/9660bc88d16787798b8e0bd70a226340/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+44            <meta-data
+44-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+45                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+45-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+46                android:value="androidx.startup" />
+46-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/darkcoders/.gradle/caches/transforms-3/003812ce2a92c56c98b21cc1eb0c30cf/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+47        </provider>
+48    </application>
+49
+50</manifest>

@@ -150,7 +150,7 @@ private fun CreateInfo() {
             color = MaterialTheme.colors.primaryVariant
         )
         Text(
-            text = "Android Compose Programmer",
+            text = "Android Compose Designer",
             modifier = Modifier.padding(3.dp)
         )
 
